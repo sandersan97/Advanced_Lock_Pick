@@ -1,0 +1,10 @@
+Start Item size:   6.104 mm	0.6104 cm	Unit(with x4 Scale): 2.4416 unit
+
+
+Medium Item size:  7.84mm	0.784 cm	Unit(with x4 Scale /2): 1.568 unit
+
+Last Item size:    4.74mm	0.474 cm	Unit(with x4 Scale): 1.896 unit
+
+Next Item Location Algorithm: 2.4416+(1.568*((2*N)-1))
+
+Next Item Location Algorithm: LastMediumLocation + 1.5 (Semi from last medium item size)
